@@ -42,8 +42,6 @@ The model is trained using historical admission data and predicts the admission 
 ---
 
 ## 📂 Project Structure
-
-```bash
 chance_of_admission/
 │
 ├── chance_of_admission.ipynb
