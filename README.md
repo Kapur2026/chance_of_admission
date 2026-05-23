@@ -64,20 +64,19 @@ Chance of Admit
 ⚙️ Installation
 
 Clone the repository:
-
 git clone https://github.com/Kapur2026/chance_of_admission.git
 
 Move into the project directory:
-
 cd chance_of_admission
 
 Install required libraries:
-
 pip install pandas numpy matplotlib scikit-learn
+
 ▶️ How to Run
 Open Jupyter Notebook
 Run chance_of_admission.ipynb
 Execute all cells step by step
+
 📈 Machine Learning Workflow
 Import Dataset
 Data Cleaning
@@ -86,17 +85,14 @@ Feature Selection
 Model Training
 Prediction
 Accuracy Evaluation
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repository and improve the project.
 
 📜 License
-
 This project is open-source and available under the MIT License.
 
 👨‍💻 Author
-
 Kapurchand Kumar
 
-GitHub: Kapur2026
