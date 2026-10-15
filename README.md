@@ -3,6 +3,11 @@
 A Machine Learning project that predicts the probability of getting admission into a university based on student academic performance and profile details.
 
 ---
+Live Demo:
+https://chanceofadmission-yopx8ut22ssp3ogatcrske.streamlit.app/
+
+GitHub Repo:
+https://github.com/Kapur2026/chance_of_admission/
 
 ## 📌 Project Overview
 
@@ -40,12 +45,6 @@ The model is trained using historical admission data and predicts the admission 
 - Scikit-learn
 
 ---
-
-## 📂 Project Structure
-chance_of_admission/
-│
-├── chance_of_admission.ipynb
-└── README.md
 
 📊 Dataset Information
 
@@ -95,4 +94,7 @@ This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 Kapurchand Kumar
+LinkedIn:
+https://www.linkedin.com/in/kapur2026
+
 
